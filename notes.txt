@@ -1,0 +1,4 @@
+
+
+For Tailwind css install command 
+npm install -D tailwindcss postcss autoprefixer
